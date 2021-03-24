@@ -100,7 +100,7 @@ label[for="new-task"] {
 }
 
 #new-task {
-  width: 318px;
+  width: 298px;
 }
 
 .add-button:hover {
@@ -160,7 +160,7 @@ ul li input[type="text"] {
 
 .edit-mode input[type="text"] {
   display: inline-block;
-  width: 224px;
+  width: 204px;
 }
 
 .edit-mode label {
