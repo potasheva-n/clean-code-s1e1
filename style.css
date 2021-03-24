@@ -90,6 +90,10 @@ button:hover {
 }
 
 /* New Task */
+#add-task {
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+}
 .add-item{
   display: block;
   margin: 0 0 20px;
